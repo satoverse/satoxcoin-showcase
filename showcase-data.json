@@ -1,0 +1,126 @@
+{
+  "last_updated": "2025-07-01T11:09:02.353Z",
+  "total_projects": 1,
+  "categories": {
+    "security": {
+      "name": "security",
+      "count": 1,
+      "featured_projects": [],
+      "recent_projects": [
+        {
+          "id": "satox-team/quantum-security-wallet",
+          "name": "Quantum Security Wallet",
+          "description": "A next-generation cryptocurrency wallet with quantum-resistant security features, built using Satox SDKs. Demonstrates advanced cryptographic techniques including post-quantum cryptography, quantum key distribution simulation, and multi-signature security.",
+          "author": {
+            "username": "satoverse",
+            "name": "Satox Development Team",
+            "avatar": "https://github.com/satoverse.png",
+            "homepage": "https://satoverse.io"
+          },
+          "last_updated": "2024-01-20T10:00:00Z"
+        }
+      ],
+      "total_stars": 0,
+      "total_forks": 0,
+      "total_views": 0
+    }
+  },
+  "projects": [
+    {
+      "id": "satox-team/quantum-security-wallet",
+      "username": "satox-team",
+      "project_name": "quantum-security-wallet",
+      "name": "Quantum Security Wallet",
+      "description": "A next-generation cryptocurrency wallet with quantum-resistant security features, built using Satox SDKs. Demonstrates advanced cryptographic techniques including post-quantum cryptography, quantum key distribution simulation, and multi-signature security.",
+      "author": {
+        "username": "satoverse",
+        "name": "Satox Development Team",
+        "avatar": "https://github.com/satoverse.png",
+        "homepage": "https://satoverse.io"
+      },
+      "category": "security",
+      "tags": [
+        "satox-sdk",
+        "satox-mobile-sdk",
+        "quantum-security",
+        "cryptography",
+        "wallet",
+        "blockchain",
+        "post-quantum",
+        "multi-signature"
+      ],
+      "satox_sdks": [
+        "satox-sdk",
+        "satox-mobile-sdk"
+      ],
+      "repository": "https://github.com/satoverse/quantum-security-wallet",
+      "license": "MIT",
+      "version": "1.0.0",
+      "last_updated": "2024-01-20T10:00:00Z",
+      "preview": {
+        "screenshot": "screenshot.png",
+        "video": "preview.mp4",
+        "live_demo": "https://quantum-wallet.satoverse.io"
+      },
+      "stars": 0,
+      "forks": 0,
+      "downloads": 0,
+      "views": 0,
+      "featured": false,
+      "verified": false,
+      "status": "active",
+      "language": "JavaScript"
+    }
+  ],
+  "statistics": {
+    "by_category": {
+      "games": 0,
+      "nft": 0,
+      "ipfs": 0,
+      "mobile": 0,
+      "apps": 0,
+      "components": 0,
+      "sites": 0,
+      "starters": 0,
+      "defi": 0,
+      "security": 1,
+      "analytics": 0,
+      "tools": 0,
+      "design": 0,
+      "education": 0,
+      "marketing": 0,
+      "integration": 0,
+      "experimental": 0,
+      "enterprise": 0,
+      "entertainment": 0,
+      "health": 0,
+      "real-estate": 0,
+      "transportation": 0,
+      "finance": 0,
+      "academic": 0,
+      "government": 0,
+      "sustainability": 0,
+      "creative": 0,
+      "competitions": 0,
+      "ai-ml": 0,
+      "web3": 0,
+      "iot": 0,
+      "events": 0,
+      "e-commerce": 0,
+      "media": 0,
+      "non-profit": 0,
+      "productivity": 0,
+      "custom": 0
+    },
+    "by_sdk": {
+      "satox-sdk": 1,
+      "satox-mobile-sdk": 1
+    },
+    "by_license": {
+      "MIT": 1
+    },
+    "by_language": {
+      "JavaScript": 1
+    }
+  }
+}

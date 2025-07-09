@@ -1,0 +1,27 @@
+{
+  "id": "your-github-username/your-repo",
+  "name": "kick ass project",
+  "description": "Something cool",
+  "author": {
+    "username": "user-github-username",
+    "name": "Satox Team",
+    "avatar": "",
+    "homepage": "https://link-to-live-demo-if-you-have.com"
+  },
+  "category": "game",
+  "tags": ["fps", "ntf"],
+  "satox_sdks": [""],
+  "repository": "https://github.com/your-github-if-you-have.one/your-repo",
+  "license": "MIT",
+  "version": "1.0.0",
+  "last_updated": "2024-07-09T10:00:00Z",
+  "preview": {
+    "screenshot": "",
+    "video": "",
+    "live_demo": ""
+  },
+  "featured": false,
+  "verified": false,
+  "status": "active",
+  "language": "JavaScript"
+}
