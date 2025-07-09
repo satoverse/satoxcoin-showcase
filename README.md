@@ -52,7 +52,7 @@ Satoxcoin Showcase is a **community project gallery** that displays community pr
        "avatar": "",
        "homepage": "https://link-to-live-demo-if-you-have.com"
      },
-     "category": "game",
+     "category": "games",
      "tags": ["fps", "ntf"],
      "satox_sdks": [],
      "repository": "",
