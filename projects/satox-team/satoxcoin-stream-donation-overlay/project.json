@@ -21,7 +21,7 @@
     "streaming-tools"
   ],
   "satox_sdks": [
-    "satox-sdk"
+    ""
   ],
   "repository": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay",
   "license": "MIT",
