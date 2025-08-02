@@ -1,0 +1,39 @@
+{
+  "id": "satox-team/satoxcoin-stream-donation-overlay",
+  "name": "Satoxcoin Stream Donation Overlay",
+  "description": "A production-ready donation overlay system for Satoxcoin streams with real-time alerts and OBS integration. Features instant notifications, address privacy protection, customizable alerts, and seamless integration with streaming software.",
+  "author": {
+    "username": "satoverse",
+    "name": "Satox Development Team",
+    "avatar": "https://github.com/satoverse.png",
+    "homepage": "https://satoverse.io"
+  },
+  "category": "tools",
+  "tags": [
+    "streaming",
+    "donations",
+    "obs",
+    "overlay",
+    "real-time",
+    "alerts",
+    "satoxcoin",
+    "blockchain",
+    "streaming-tools"
+  ],
+  "satox_sdks": [
+    "satox-sdk"
+  ],
+  "repository": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay",
+  "license": "MIT",
+  "version": "1.0.0",
+  "last_updated": "2025-01-20T10:00:00Z",
+  "preview": {
+    "screenshot": "thumbnail.png",
+    "video": "",
+    "live_demo": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay"
+  },
+  "featured": false,
+  "verified": true,
+  "status": "active",
+  "language": "Python"
+} 

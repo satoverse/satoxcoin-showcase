@@ -47,12 +47,12 @@ function updateShowcaseData() {
         
         if (entry.isDirectory()) {
           // Check if this directory contains a project
-          const satoxJsonPath = path.join(fullPath, 'satox.json');
+          const projectJsonPath = path.join(fullPath, 'project.json');
           
-          if (fs.existsSync(satoxJsonPath)) {
+          if (fs.existsSync(projectJsonPath)) {
             // This is a project directory
             try {
-              const projectData = processProject(fullPath, satoxJsonPath);
+              const projectData = processProject(fullPath, projectJsonPath);
               if (projectData) {
                 showcaseData.projects.push(projectData);
                 showcaseData.total_projects++;
