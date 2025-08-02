@@ -4,8 +4,8 @@
   "description": "A production-ready donation overlay system for Satoxcoin streams with real-time alerts and OBS integration. Features instant notifications, address privacy protection, customizable alerts, and seamless integration with streaming software.",
   "author": {
     "username": "satoverse",
-    "name": "Satox Development Team",
-    "avatar": "https://github.com/satoverse.png",
+    "name": "Satox Team",
+    "avatar": "",
     "homepage": "https://satoverse.io"
   },
   "category": "tools",
@@ -30,7 +30,7 @@
   "preview": {
     "screenshot": "thumbnail.png",
     "video": "",
-    "live_demo": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay"
+    "live_demo": ""
   },
   "featured": false,
   "verified": true,
