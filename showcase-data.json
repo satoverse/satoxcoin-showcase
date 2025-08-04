@@ -1,10 +1,10 @@
 {
-  "last_updated": "2025-08-04T19:52:40.310Z",
-  "total_projects": 3,
+  "last_updated": "2025-08-04T21:13:56.007Z",
+  "total_projects": 2,
   "categories": {
     "tools": {
       "name": "tools",
-      "count": 3,
+      "count": 2,
       "featured_projects": [],
       "recent_projects": [
         {
@@ -18,18 +18,6 @@
             "homepage": "https://satoverse.io"
           },
           "last_updated": "2025-08-04T20:00:00Z"
-        },
-        {
-          "id": "satox-team/satox-block-explorer",
-          "name": "SATOX Block Explorer",
-          "description": "satox block explorer without db",
-          "author": {
-            "username": "satoverse",
-            "name": "Satox Team",
-            "avatar": "",
-            "homepage": "https://www.satoverse.io"
-          },
-          "last_updated": "2025-07-09T10:19:21.175Z"
         },
         {
           "id": "satox-team/satoxcoin-stream-donation-overlay",
@@ -79,41 +67,6 @@
       "last_updated": "2025-08-04T20:00:00Z",
       "preview": {
         "screenshot": "thumbnail.png",
-        "video": "",
-        "live_demo": ""
-      },
-      "stars": 0,
-      "forks": 0,
-      "downloads": 0,
-      "views": 0,
-      "featured": false,
-      "verified": true,
-      "status": "active",
-      "language": "Other"
-    },
-    {
-      "id": "satox-team/satox-block-explorer",
-      "username": "satox-team",
-      "project_name": "satox-block-explorer",
-      "name": "SATOX Block Explorer",
-      "description": "satox block explorer without db",
-      "author": {
-        "username": "satoverse",
-        "name": "Satox Team",
-        "avatar": "",
-        "homepage": "https://www.satoverse.io"
-      },
-      "category": "tools",
-      "tags": [
-        "explorer"
-      ],
-      "satox_sdks": [],
-      "repository": "https://github.com/satoverse/satox-block-explorer",
-      "license": "MIT",
-      "version": "1.0.0",
-      "last_updated": "2025-07-09T10:19:21.175Z",
-      "preview": {
-        "screenshot": "",
         "video": "",
         "live_demo": ""
       },
@@ -185,7 +138,7 @@
       "defi": 0,
       "security": 0,
       "analytics": 0,
-      "tools": 3,
+      "tools": 2,
       "design": 0,
       "education": 0,
       "marketing": 0,
@@ -216,10 +169,10 @@
       "": 2
     },
     "by_license": {
-      "MIT": 3
+      "MIT": 2
     },
     "by_language": {
-      "Other": 3
+      "Other": 2
     }
   }
 }
