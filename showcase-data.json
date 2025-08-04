@@ -1,12 +1,24 @@
 {
-  "last_updated": "2025-08-02T13:13:00.350Z",
-  "total_projects": 2,
+  "last_updated": "2025-08-04T19:52:40.310Z",
+  "total_projects": 3,
   "categories": {
     "tools": {
       "name": "tools",
-      "count": 2,
+      "count": 3,
       "featured_projects": [],
       "recent_projects": [
+        {
+          "id": "satox-team/satoxcoin-blockbook",
+          "name": "Blockbook Explorer",
+          "description": "Trezor address/account balance backend with Satoxcoin support",
+          "author": {
+            "username": "satoverse",
+            "name": "Satox Team",
+            "avatar": "",
+            "homepage": "https://satoverse.io"
+          },
+          "last_updated": "2025-08-04T20:00:00Z"
+        },
         {
           "id": "satox-team/satox-block-explorer",
           "name": "SATOX Block Explorer",
@@ -25,8 +37,8 @@
           "description": "A production-ready donation overlay system for Satoxcoin streams with real-time alerts and OBS integration. Features instant notifications, address privacy protection, customizable alerts, and seamless integration with streaming software.",
           "author": {
             "username": "satoverse",
-            "name": "Satox Development Team",
-            "avatar": "https://github.com/satoverse.png",
+            "name": "Satox Team",
+            "avatar": "",
             "homepage": "https://satoverse.io"
           },
           "last_updated": "2025-01-20T10:00:00Z"
@@ -38,6 +50,47 @@
     }
   },
   "projects": [
+    {
+      "id": "satox-team/satoxcoin-blockbook",
+      "username": "satox-team",
+      "project_name": "satoxcoin-blockbook",
+      "name": "Blockbook Explorer",
+      "description": "Trezor address/account balance backend with Satoxcoin support",
+      "author": {
+        "username": "satoverse",
+        "name": "Satox Team",
+        "avatar": "",
+        "homepage": "https://satoverse.io"
+      },
+      "category": "tools",
+      "tags": [
+        "explorer",
+        "satoxcoin",
+        "blockchain",
+        "hardwarewallet",
+        "trezor"
+      ],
+      "satox_sdks": [
+        ""
+      ],
+      "repository": "hhttps://github.com/satoverse/satoxcoin-blockbook",
+      "license": "MIT",
+      "version": "1.0.0",
+      "last_updated": "2025-08-04T20:00:00Z",
+      "preview": {
+        "screenshot": "thumbnail.png",
+        "video": "",
+        "live_demo": ""
+      },
+      "stars": 0,
+      "forks": 0,
+      "downloads": 0,
+      "views": 0,
+      "featured": false,
+      "verified": true,
+      "status": "active",
+      "language": "Other"
+    },
     {
       "id": "satox-team/satox-block-explorer",
       "username": "satox-team",
@@ -81,8 +134,8 @@
       "description": "A production-ready donation overlay system for Satoxcoin streams with real-time alerts and OBS integration. Features instant notifications, address privacy protection, customizable alerts, and seamless integration with streaming software.",
       "author": {
         "username": "satoverse",
-        "name": "Satox Development Team",
-        "avatar": "https://github.com/satoverse.png",
+        "name": "Satox Team",
+        "avatar": "",
         "homepage": "https://satoverse.io"
       },
       "category": "tools",
@@ -98,7 +151,7 @@
         "streaming-tools"
       ],
       "satox_sdks": [
-        "satox-sdk"
+        ""
       ],
       "repository": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay",
       "license": "MIT",
@@ -107,7 +160,7 @@
       "preview": {
         "screenshot": "thumbnail.png",
         "video": "",
-        "live_demo": "https://github.com/satoverse/-satoxcoin-stream-donation-overlay"
+        "live_demo": ""
       },
       "stars": 0,
       "forks": 0,
@@ -132,7 +185,7 @@
       "defi": 0,
       "security": 0,
       "analytics": 0,
-      "tools": 2,
+      "tools": 3,
       "design": 0,
       "education": 0,
       "marketing": 0,
@@ -160,13 +213,13 @@
       "custom": 0
     },
     "by_sdk": {
-      "satox-sdk": 1
+      "": 2
     },
     "by_license": {
-      "MIT": 2
+      "MIT": 3
     },
     "by_language": {
-      "Other": 2
+      "Other": 3
     }
   }
 }

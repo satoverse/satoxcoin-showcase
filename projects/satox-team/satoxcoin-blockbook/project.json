@@ -1,0 +1,35 @@
+{
+  "id": "satox-team/satoxcoin-blockbook",
+  "name": "Blockbook Explorer",
+  "description": "Trezor address/account balance backend with Satoxcoin support",
+  "author": {
+    "username": "satoverse",
+    "name": "Satox Team",
+    "avatar": "",
+    "homepage": "https://satoverse.io"
+  },
+  "category": "tools",
+  "tags": [
+    "explorer",
+    "satoxcoin",
+    "blockchain",
+    "hardwarewallet",
+    "trezor"
+  ],
+  "satox_sdks": [
+    ""
+  ],
+  "repository": "hhttps://github.com/satoverse/satoxcoin-blockbook",
+  "license": "MIT",
+  "version": "1.0.0",
+  "last_updated": "2025-08-04T20:00:00Z",
+  "preview": {
+    "screenshot": "thumbnail.png",
+    "video": "",
+    "live_demo": ""
+  },
+  "featured": false,
+  "verified": true,
+  "status": "active",
+  "language": "Go,HTML,Shell,TypeScript,CSS,Java"
+} 
